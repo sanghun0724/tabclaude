@@ -1,0 +1,14 @@
+{
+  "extName": {
+    "message": "Tabclaude — AI标签管理器"
+  },
+  "extDescription": {
+    "message": "Claude CLI集成AI标签管理Chrome扩展"
+  },
+  "commandSaveAllTabs": {
+    "message": "保存并关闭所有标签页"
+  },
+  "actionTitle": {
+    "message": "Tabclaude"
+  }
+}

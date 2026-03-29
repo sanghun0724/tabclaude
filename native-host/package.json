@@ -1,0 +1,23 @@
+{
+  "name": "tabclaude-host",
+  "version": "0.1.0",
+  "description": "Tabclaude Native Messaging Host with Claude CLI integration",
+  "author": "Brady",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "tabclaude-host": "./host.js"
+  },
+  "files": [
+    "host.js",
+    "claude-client.js",
+    "scripts/"
+  ],
+  "scripts": {
+    "build": "echo 'No build needed for native host'",
+    "dev": "node host.js",
+    "postinstall": "node scripts/register.js",
+    "preuninstall": "node scripts/unregister.js"
+  },
+  "dependencies": {}
+}

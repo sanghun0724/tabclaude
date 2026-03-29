@@ -1,0 +1,7 @@
+{
+  "name": "com.tabclaude.host",
+  "description": "Tabclaude — AI Tab Manager Native Messaging Host",
+  "path": "/PLACEHOLDER_WILL_BE_SET_BY_INSTALL_SCRIPT",
+  "type": "stdio",
+  "allowed_origins": ["chrome-extension://EXTENSION_ID_PLACEHOLDER/"]
+}

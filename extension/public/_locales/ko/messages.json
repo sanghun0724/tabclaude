@@ -1,0 +1,14 @@
+{
+  "extName": {
+    "message": "Tabclaude — AI 탭 매니저"
+  },
+  "extDescription": {
+    "message": "Claude CLI 연동 AI 탭 관리 크롬 확장 프로그램"
+  },
+  "commandSaveAllTabs": {
+    "message": "모든 탭을 저장하고 닫기"
+  },
+  "actionTitle": {
+    "message": "Tabclaude"
+  }
+}

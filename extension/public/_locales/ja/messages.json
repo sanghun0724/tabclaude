@@ -1,0 +1,14 @@
+{
+  "extName": {
+    "message": "Tabclaude — AIタブマネージャー"
+  },
+  "extDescription": {
+    "message": "Claude CLI連携AIタブ管理Chrome拡張機能"
+  },
+  "commandSaveAllTabs": {
+    "message": "すべてのタブを保存して閉じる"
+  },
+  "actionTitle": {
+    "message": "Tabclaude"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "tabclaude",
+  "version": "0.1.0",
+  "private": true,
+  "description": "AI-powered tab management Chrome extension with Claude CLI integration",
+  "author": "Brady",
+  "license": "MIT",
+  "workspaces": [
+    "extension",
+    "native-host"
+  ],
+  "scripts": {
+    "dev": "cd extension && npm run dev",
+    "build": "cd extension && npm run build",
+    "dev:host": "cd native-host && npm run dev",
+    "install:host": "bash scripts/install-host.sh"
+  }
+}

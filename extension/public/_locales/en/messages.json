@@ -1,0 +1,14 @@
+{
+  "extName": {
+    "message": "Tabclaude — AI Tab Manager"
+  },
+  "extDescription": {
+    "message": "AI-powered tab management Chrome extension with Claude CLI integration"
+  },
+  "commandSaveAllTabs": {
+    "message": "Save all tabs and close them"
+  },
+  "actionTitle": {
+    "message": "Tabclaude"
+  }
+}
